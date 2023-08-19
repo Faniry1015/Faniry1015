@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🙋 My full name is Faniriantsoa RANDRIAHARIMINO 
-- 🌱 I’m currently learning Web Development with SAYNA ACADEMY
+- 🙋 My name is Faniriantsoa RANDRIAHARIMINO 
+- 🌱 I’m currently learning Web Front-end Development with SAYNA ACADEMY
 - 💬 Don't hesitate to contact me 😅
 - 📫 How to reach me: frandriaharimino@yahoo.com
-- 🗺️ I'm from 🇲🇬
-- 💻 HTML5, CSS3, JavaScript and WordPress
+- 🗺️ I'm from Madagascar 🇲🇬
+- 💻 HTML5, CSS3, JavaScript/ReactJS and WordPress
