@@ -3,6 +3,10 @@
 - 🙋 My name is Faniriantsoa RANDRIAHARIMINO 
 - 🌱 I’m currently learning Web Front-end Development with SAYNA ACADEMY
 - 💬 Don't hesitate to contact me 😅
-- 📫 How to reach me: frandriaharimino@yahoo.com
 - 🗺️ I'm from Madagascar 🇲🇬
-- 💻 HTML5, CSS3, JavaScript/ReactJS and WordPress
+- 💻 Technology: HTML5, CSS3/Sass/Bootstrap, JavaScript/ReactJS and WordPress
+- 📫 How to reach me:
+    mail : frandriaharimino@yahoo.com
+    linkedin : https://www.linkedin.com/in/faniriantsoa-randriaharimino-1796601b5/
+
+Don't hesitate to add ⭐to my profil and repositories
