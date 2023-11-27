@@ -6,10 +6,10 @@
     <li>🗺️ I'm from Madagascar 🇲🇬</li>
     <li>💻 Technology: HTML5, CSS3/Sass/Bootstrap, JavaScript/ReactJS and WordPress</li>
     <li>
-        <ul>
             📫 How to reach me: 
-            <li>Mon mail : frandriaharimino@yahoo.com</li>
-            <li><a href='https://www.linkedin.com/in/faniriantsoa/'>Mon LinkedIn </a></li>
+        <ul>
+            <li>Mail : frandriaharimino@yahoo.com</li>
+            <li>LinkedIn<a href='https://www.linkedin.com/in/faniriantsoa/'>clic here</a></li>
             <li>👦 Take a look at my portfolio to get to know more about my work :<a href='https://faniriantsoa-portfolio.firebaseapp.com/'> My Portfolio </a></li>
         </ul>
     </li> 
