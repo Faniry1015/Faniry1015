@@ -9,8 +9,8 @@
             📫 How to reach me: 
         <ul>
             <li>Mail: frandriaharimino@yahoo.com</li>
-            <li> <a href='https://www.linkedin.com/in/faniriantsoa/'>Faniriantsoa LinkeInd account</a></li>
-            <li>👦 Take a look at my portfolio to get to know more about my work :<a href='https://faniriantsoa-portfolio.firebaseapp.com/'> My Portfolio </a></li>
+            <li> <a href='https://www.linkedin.com/in/faniriantsoa/'>Faniriantsoa LinkedIn account</a></li>
+            <li>👦 Take a look at my <strong>Portfolio</strong> to get to know more about my work :<a href='https://faniriantsoa-portfolio.firebaseapp.com/'> My Portfolio </a></li>
         </ul>
     </li> 
 </ul>
