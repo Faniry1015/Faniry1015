@@ -8,7 +8,7 @@
     <li>
             📫 How to reach me: 
         <ul>
-            <li>✉️frandriaharimino@yahoo.com</li>
+            <li>✉️ frandriaharimino@yahoo.com</li>
             <li> <a href='https://www.linkedin.com/in/faniriantsoa/'>LinkedIn</a></li>
             <li> <a href='https://web.facebook.com/rfaniriantsoa/'>Facebook</a></li>       
         </ul>
