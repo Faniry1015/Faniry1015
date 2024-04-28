@@ -16,4 +16,4 @@
     </li> 
 </ul>
 
-Don't hesitate to add ⭐to my profil and repositories
+Don't hesitate to add ⭐ to my profil and repositories
