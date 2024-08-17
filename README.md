@@ -6,7 +6,7 @@
     <li>💻 Prefered Technology : HTML5, CSS3, Javascript, ReactJS,React Native and Material UI</li>
     <li>💬 Don't hesitate to contact me 😅</li>     
     <li>
-            📫 How to reach me:
+    📫 How to reach me:
         <ul>
             <li>✉️ frandriaharimino@yahoo.com</li>
             <li> <a href='https://www.linkedin.com/in/faniriantsoa/'>LinkedIn</a></li>
