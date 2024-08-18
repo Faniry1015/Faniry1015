@@ -15,5 +15,4 @@
     <li>👦 Take a look at my <strong>Portfolio</strong> to get to know more about my work : <a href='https://faniriantsoa-portfolio.firebaseapp.com/'> My Portfolio </a></li>
     </li>
 </ul>
-
 Don't forget to add ⭐ to my profil and repositories. 😉
