@@ -1,7 +1,7 @@
 ### Hi there 👋
 <ul>
     <li>🙋 My name is Faniriantsoa RANDRIAHARIMINO</li> 
-    <li>🌱 I’m Front-end Developer</li>
+    <li>🌱 I’m Front-end Developer</li> 
     <li>🗺️ I'm from Madagascar 🇲🇬</li>
     <li>💻 Prefered Technology : Javascript/Next/ReactJS, Dart/Flutter</li> 
     <li>💬 Don't hesitate to contact me 😅</li>     
